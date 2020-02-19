@@ -1,1 +1,43 @@
-<mxfile host="www.draw.io" modified="2020-02-19T05:43:59.505Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" version="12.7.1" etag="auA1vSv-7yBUUREo_J67" type="github"><diagram id="RAriAX78_pOGeq3DnyW0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-19T05:51:35.608Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="NjjXjuIIA7hAgfSxpHeX" version="12.7.1" type="github">
+  <diagram id="RAriAX78_pOGeq3DnyW0" name="Page-1">
+    <mxGraphModel dx="1422" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.utility;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.windfarm;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lightbulb;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.thermostat;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-5" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="93.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="400" y="126" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-7" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=etcd" vertex="1" parent="1">
+          <mxGeometry x="428" y="340" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-128.png" vertex="1" parent="1">
+          <mxGeometry x="125" y="120" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-9" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=job" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-10" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=ds" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_77lGK3YF5Gts2ZvxuUZ-11" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=deploy" vertex="1" parent="1">
+          <mxGeometry x="428" y="280" width="50" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
