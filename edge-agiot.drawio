@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T22:15:57.920Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="TRxAkpaptdNMJEdZfuDA" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-02-27T22:17:41.390Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="PSSCEx-zOopCxR7sVMAt" version="12.7.9" type="github">
   <diagram id="RAriAX78_pOGeq3DnyW0" name="Page-1">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -332,8 +332,8 @@
         <mxCell id="GNaobBh7bxXVhOcROiNK-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;K8s API&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="GNaobBh7bxXVhOcROiNK-11">
           <mxGeometry x="59" y="60" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GNaobBh7bxXVhOcROiNK-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;REST API&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="GNaobBh7bxXVhOcROiNK-11">
-          <mxGeometry x="59" y="7" width="100" height="20" as="geometry" />
+        <mxCell id="GNaobBh7bxXVhOcROiNK-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;ERGO REST API&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="GNaobBh7bxXVhOcROiNK-11">
+          <mxGeometry x="59" y="7" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GNaobBh7bxXVhOcROiNK-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Device Protocols&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="GNaobBh7bxXVhOcROiNK-11">
           <mxGeometry x="59" y="34" width="170" height="20" as="geometry" />
