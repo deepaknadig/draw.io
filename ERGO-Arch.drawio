@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T21:47:35.557Z" agent="5.0 (X11)" etag="12gTqdl-SwIB0JFDfuqz" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T21:56:41.354Z" agent="5.0 (X11)" etag="YpGRsVKCKYqTli2DGhLb" version="13.1.1" type="github">
   <diagram id="M4kqrXDeOSyIxsi7BbFb" name="Page-1">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AH9gWRwFGIXPPmOfZCHg-165" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="AH9gWRwFGIXPPmOfZCHg-177" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="90" width="1000.5" height="552" as="geometry" />
+        </mxCell>
+        <mxCell id="AH9gWRwFGIXPPmOfZCHg-165" value="" style="group" vertex="1" connectable="0" parent="AH9gWRwFGIXPPmOfZCHg-177">
+          <mxGeometry width="1000.5" height="552" as="geometry" />
         </mxCell>
         <mxCell id="AH9gWRwFGIXPPmOfZCHg-3" value="" style="group" vertex="1" connectable="0" parent="AH9gWRwFGIXPPmOfZCHg-165">
           <mxGeometry x="700" width="310" height="552" as="geometry" />
@@ -275,8 +278,11 @@
         <mxCell id="AH9gWRwFGIXPPmOfZCHg-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-55">
           <mxGeometry width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AH9gWRwFGIXPPmOfZCHg-57" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Flask&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;WSGI&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flask-128.png" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-55">
-          <mxGeometry x="30" y="10" width="50" height="50" as="geometry" />
+        <mxCell id="AH9gWRwFGIXPPmOfZCHg-169" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#000000;labelBackgroundColor=none;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;imageBackground=none;" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-55">
+          <mxGeometry x="13.9" y="10" width="82.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AH9gWRwFGIXPPmOfZCHg-175" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Microservice&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-55">
+          <mxGeometry y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AH9gWRwFGIXPPmOfZCHg-58" value="" style="group" vertex="1" connectable="0" parent="AH9gWRwFGIXPPmOfZCHg-51">
           <mxGeometry x="150" y="20" width="130" height="110" as="geometry" />
@@ -293,8 +299,11 @@
         <mxCell id="AH9gWRwFGIXPPmOfZCHg-62" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-59">
           <mxGeometry width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AH9gWRwFGIXPPmOfZCHg-63" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;MongoDB&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-59">
-          <mxGeometry x="42.629999999999995" y="20" width="24.74" height="30" as="geometry" />
+        <mxCell id="AH9gWRwFGIXPPmOfZCHg-172" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#000000;labelBackgroundColor=#FFFFCC;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-59">
+          <mxGeometry x="13.899999999999977" y="12" width="82.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AH9gWRwFGIXPPmOfZCHg-176" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Microservice&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;align=center;" vertex="1" parent="AH9gWRwFGIXPPmOfZCHg-59">
+          <mxGeometry y="72" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AH9gWRwFGIXPPmOfZCHg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="AH9gWRwFGIXPPmOfZCHg-45" source="AH9gWRwFGIXPPmOfZCHg-48" target="AH9gWRwFGIXPPmOfZCHg-56">
           <mxGeometry relative="1" as="geometry" />
