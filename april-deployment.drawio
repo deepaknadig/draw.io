@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T21:52:28.910Z" agent="5.0 (X11)" etag="PjTtk7GBYRCmmR_KPL89" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-09T21:55:01.324Z" agent="5.0 (X11)" etag="RCCOv19mybc9uFIA8k5h" version="13.2.1" type="github">
   <diagram id="GGBNnPE-5dZ_erYJaQ-l" name="Page-1">
-    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,6 +152,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fN3U7Vte8udqsAbF8adY-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fN3U7Vte8udqsAbF8adY-68" target="fN3U7Vte8udqsAbF8adY-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fN3U7Vte8udqsAbF8adY-68" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="225" width="120" height="90" as="geometry" />
         </mxCell>
@@ -219,6 +222,12 @@
         </mxCell>
         <mxCell id="fN3U7Vte8udqsAbF8adY-3" value="" style="shape=mxgraph.gcp.storage_databases.persistent_disk;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="474" y="300" width="34.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fN3U7Vte8udqsAbF8adY-89" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Model&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Registry&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.registry;" vertex="1" parent="1">
+          <mxGeometry x="590" y="231" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="fN3U7Vte8udqsAbF8adY-91" value="" style="shape=mxgraph.gcp.storage_databases.persistent_disk;html=1;fillColor=#4387FD;gradientColor=#4683EA;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="292" width="34.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
